@@ -17,13 +17,9 @@
 
 ### 🛠️ Languages and Tools:
 <p>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/netbeans-%231B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=figma,java,python,cpp,mysql,html,css,js" />
 </p>
+
 ---
 
 ### 🚀 Featured Projects
