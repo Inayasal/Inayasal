@@ -37,9 +37,9 @@ Web app (HTML, CSS, vanilla JS) built for a group project under the theme "Acces
 ### 📫 Connect with me:
 <p>
   <a href="https://www.linkedin.com/in/inayasalsabila15" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="https://www.instagram.com/inayasbl_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 </p>
