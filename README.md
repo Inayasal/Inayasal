@@ -28,7 +28,7 @@
 Dark red & gold themed mobile app for movie ticket booking. Full user flow from browsing showtimes to seat selection & payment.
 
 **🧮 BMI Calculator** — Java Swing + MySQL  
-Desktop application built with NetBeans using the DAO pattern, with a connected database to store and track user BMI history.
+Desktop application built for a group project with NetBeans using the DAO pattern, with a connected database to store and track user BMI history.
 
 **🌲 Arcadia Code** — Gamified Python Learning Platform  
 Web app (HTML, CSS, vanilla JS) built for a group project under the theme "Accessible & Adaptive Learning," featuring dynamic lessons and progress tracking.
