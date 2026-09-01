@@ -7,7 +7,7 @@
 ---
 
 ### 🎨 About Me
-- 🎓 Information Technology student, GPA 3.61
+- 🎓 Information Technology student
 - 🧩 Member of UI/UX Division @ Informatic Study Club (ISC)
 - 🎯 Currently focused on landing a UI/UX Design internship
 - 💡 Passionate about turning user problems into clean, functional interfaces
