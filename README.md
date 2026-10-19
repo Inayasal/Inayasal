@@ -22,23 +22,22 @@
 ## 🌸 About Me
 
 ```text
-┌── [ SYSTEM INFORMATION : INAYA_STUDIO.EXE ] ───────────────────────────────────┐
-│                                                                                │
-│  🎓 Education    : Information Technology Student @ Universitas Pamulang      │
-│  🧩 Division     : UI/UX Division @ Informatic Study Club (ISC)                │
-│  🎯 Current Quest: Landing a UI/UX Design Internship                          │
-│  💡 Mission      : Turning user problems into clean, functional interfaces    │
-│  🌱 Tech Focus   : Bridging the gap between design (Figma) and working apps   │
-│  ☕ Night Fuel   : Warm coffee / tea, lofi beats & pixel vibes                │
-│                                                                                │
-│  💬 Daily Reminder:                                                            │
-│     "take breaks!                                                              │
-│      drink water                                                               │
-│      rest your eyes                                                            │
-│                 :3c"                                                           │
-│                                                                                │
-└────────────────────────────────────────────────────────────────────────────────┘
-```
+ [ SYSTEM INFORMATION : INAYA_STUDIO.EXE ]
+                                                                                
+  🎓 Education    : Information Technology Student @ Universitas Pamulang      
+  🧩 Division     : UI/UX Division @ Informatic Study Club (ISC)               
+  🎯 Current Quest: Landing a UI/UX Design Internship                          
+  💡 Mission      : Turning user problems into clean, functional interfaces    
+  🌱 Tech Focus   : Bridging the gap between design (Figma) and working apps   
+  ☕ Night Fuel   : Warm coffee / tea, lofi beats & pixel vibes                
+                                                                               
+  💬 Daily Reminder:                                                           
+     "take breaks!                                                              
+      drink water                                                               
+      rest your eyes                                                            
+                 :3c"                                                           
+                                                                                
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/inayasalsabila15" target="_blank">
